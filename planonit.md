@@ -1,9 +1,10 @@
-# Project Pitch Name (Your Name)
+# Plan on it
 
 ## Elevator
 
 A one or two sentence synopsis of what your idea is.
 
+I want to make a website with an app to be able to plan a party with a diy/ease. You can search how to plan for a particular party on the internet, but I feel like there is no centralized site to plan if you don't know where to start.   
 ## Audience
 
 Who will use this product/application/thing.
