@@ -49,4 +49,4 @@ Make a pitch for a peer to help you with this project.
 
 If you're interested in beer, bringing people together who share the same interests, and want to drink a ton of delectable beer while working on this, then join me in making Brew Live a reality!
 
-P.S.-- I am 100% about divying up tasks, allowing people to work on their end and not take over, collaboration, and lastly, asking you how you would do things to make this app a f*&^ing rockstar application. Because, like beer, we only want the best. Unless you paid for Iron Yard tuition OoP, then whatever fits the budget but makes you feel better.🍻 🍻
+P.S.-- I am 100% about divvying up tasks, allowing people to work on their end and not take over, collaboration, and lastly, asking you how you would do things to make this app a f*&^ing rockstar application. Because, like beer, we only want the best. Unless you paid for Iron Yard tuition OoP, then whatever fits the budget but makes you feel better.🍻 🍻
