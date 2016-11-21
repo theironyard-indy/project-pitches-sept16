@@ -8,6 +8,7 @@ A one or two sentence synopsis of what your idea is.
 
 Who will use this product/application/thing.
 
+
 Note: "Everybody" is not an acceptable answer.
 
 Further note: Your idea might have a few different audiences.
