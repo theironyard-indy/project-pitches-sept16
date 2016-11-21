@@ -2,12 +2,12 @@
 
 ## Elevator
 
-I am going to create a e-commerce website that will allow the jewelry designer of 188 Designs to sell her custom Italian jewelry online.  With an online store this will allow the jeweler to broaden her client base as well as pass the savings from having a brick and mortar store on to her customers.
+I am going to create a e-commerce website that will allow the jewelry designer of 188 designs to sell her custom, Italian jewelry online.  An online store will allow the jeweler to broaden her client base. She will also pass the savings from not having to maintain a brick and mortar store on to her customers.
 
 
 ## Audience
 
-The target audience for this site would primarily be jewelry lovers, but within that group 188 Designs sees two distinct groups that would primarily visit the website.  The first group that the jewelry designer is targeting is the budget conscious consumer that does not like mass produced products, preferring instead handmade items at an affordable cost.  The second group that the designer is targeting is the more discerning jewelry collector that takes pride in adding jewelry that is unique to a specific region to their collection.  For the collector who appreciates handmade custom Italian jewelry at a variety of price point this site would allow for them to buy pieces without having to travel.
+The target audience for this site would primarily be jewelry lovers, but within that group, 188 Designs sees two distinct groups that would primarily visit the website.  The first group that the jewelry designer is targeting is the budget conscious consumer that does not like mass produced products, preferring instead handmade items at an affordable cost.  The second group that the designer is targeting is the more discerning jewelry collector that takes pride in adding jewelry that is unique to a specific region to their collection.  For the collector who appreciates handmade custom Italian jewelry at a variety of price point this site would allow for them to buy pieces without having to travel.
 
 ## Benefits
 
@@ -23,4 +23,4 @@ Integration from the ground up using shopify.com as an inventory management syst
 
 ## Why you should help me build this
 
-If you are unsure of what you would like to build for your final project, I would welcome your help.  First you would gain valuable experience on the front end by helping to design a consumer website that sells a product.  Not only does it have to function, it has to be easy for the customer to understand.  Second you will gain experience with something we have yet to touch base on so far at The Iron Yard, using shoify.com as the back end of our site.  Third, with this experience you will learn how to set up your own e-commerce site.  One day you might want to set up your own business selling a product, and this project will help with that.  Fourth, I'm pretty chill to work with.  Thank you.
+If you are unsure of what you would like to build for your final project, I would welcome your help.  First you would gain valuable experience on the front end by helping to design a consumer website that sells a product that is currently not available for purchase outside of Italy.  Not only does the website have to function, it has to be easy for the customer to understand.  Second you will gain experience with something we have yet to touch base on so far at The Iron Yard, using shoify.com as the back end of our site.  Third, with this experience you will learn how to set up your own e-commerce site.  One day you might want to set up your own business selling a product, and this project will help with that.  Fourth, I'm pretty chill to work with.  Thank you.
