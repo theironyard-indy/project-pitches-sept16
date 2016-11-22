@@ -7,7 +7,7 @@ and push them to your favorite social media applications (Twitter, Instagram and
 
 ## Audience
 
-My main demographic will users invested into the Twitter / Instagram ecosystems.
+My main demographic will be users invested into the Twitter / Instagram ecosystems.
 These two applications are popular with users between the ages of 18 and 29.
 
 
